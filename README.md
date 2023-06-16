@@ -1,5 +1,3 @@
-# Beginner_Multi_Project_js_HTML_CSS
-
 ## JavaScript Projects for Beginners 🚀
 
 Sharpen your JavaScript skills by building projects using Pure JavaScript without any frameworks.
